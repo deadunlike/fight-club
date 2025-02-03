@@ -1,0 +1,219 @@
+:root {
+    --pink: #DB92BC;
+    --dark: #1d1d1d;
+    --gray: #f3eeee;
+    --light: #ffffff;
+}
+
+body {
+    font-family: 'Mulish', sans-serif;
+    color: var(--gray);
+    padding-top: 0.4px;
+    padding-bottom: 0.1px;
+    margin: 0;
+}
+/* Navbar */
+.light-bg {
+    background-color: var(--gray) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dark-bg {
+    background-color: var(--dark) !important;
+    border-bottom: 1px solid rgba(218, 218, 218, 0.1);
+}
+
+.btn-outline-dark {
+    border: 2px solid var(--dark);
+    color: var(--dark);
+    font-family: 'Montserrat', sans-serif;
+    padding: 7px 45px;
+    border-radius: 15px
+}
+
+.btn-pink {
+    background-color: var(--pink);
+    color: var(--dark);
+    font-family: 'Montserrat', sans-serif;
+    border: 2px solid var(--pink);
+    padding: 7px 45px;
+    border-radius: 15px
+}
+
+.btn-pink:hover {
+    background-color: transparent;
+    color: var(--pink);
+}
+
+.big-title {
+    font-size: 3.5rem; /* Ajuste o tamanho conforme necessário */
+    font-weight: bold; /* Opcional: deixa o texto mais destacado */
+}
+
+/* Hero Section */
+.hero-image {
+    max-width: 600px;
+    margin-left: auto;
+}
+
+
+@keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+}
+
+.hero-text {
+    font-size: 1.25rem;
+    line-height: 1.8;
+    max-width: 600px;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    .hero-image {
+        margin: 2rem auto 0;
+        max-width: 300px;
+    }
+    
+    .btn {
+        padding: 10px 25px !important;
+    }
+}
+
+
+.hero-title {
+    font-size: 5rem; /* Aumentando o tamanho */
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+.hero-text {
+    max-width: 620px;
+    text-align: left;
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+.custom-title-spacing {
+    margin-bottom: 5rem; /* Ajuste conforme necessário */
+    margin: 5rem;
+}
+
+/* Seções */
+.dark-section {
+    background-color: var(--dark);
+}
+
+.light-section {
+    background-color: var(--light);
+}
+
+.pt-10 {
+    padding-top: 10rem !important;
+}
+
+.pb-10 {
+    padding-bottom: 10rem !important;
+}
+
+.contact {
+    padding-top: 12rem; /* Aumentando o espaço */
+}
+
+   
+/* Regras */
+
+.rule-item {
+    padding: 0.5rem;
+    margin-bottom: 1.5rem;
+    text-align: left;
+    min-height: 150px; /* Alinhamento uniforme */
+}
+
+
+.rule-item h3 {
+    color: var(--pink);
+    font-family: 'Montserrat', sans-serif;
+    padding: 0.2rem;
+    margin-bottom: 0.2px; /* Reduzindo o espaço entre os itens */
+}
+
+.rule-description {
+    color: #000; /* Alterando para cor preta */
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: left; /* Alinhando o texto à esquerda */
+    min-height: 80px;
+}
+
+
+
+/* Tipografia */
+.gradient-text {
+    background: linear-gradient(45deg, #BE448A, #DB92BC);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+.pink-gradient {
+    background: linear-gradient(45deg, #BE448A, #DB92BC);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    margin: 2rem 0;
+}
+
+/* Formulário */
+.form-control {
+    background: transparent;
+    border: 1px solid var(--gray);
+    border-radius: 0;
+    padding: 1rem;
+    color: var(--gray);
+    border-radius: 15px !important;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: var(--pink);
+}
+
+/* Footer */
+.footer-logo {
+    width: 120px;
+    margin-top: 3rem;
+    opacity: 0.8;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    body {
+        padding-top: 70px;
+    }
+
+    .nav-logo {
+        width: 90px;
+    }
+
+    .gradient-text {
+        font-size: 2rem;
+    }
+
+    .hero-text {
+        font-size: 1rem;
+    }
+
+    .rule-image {
+        max-height: 500px;
+        margin-top: 2rem;
+    }
+
+    .pt-10, .pb-10 {
+        padding: 5rem 0 !important;
+    }
+}
