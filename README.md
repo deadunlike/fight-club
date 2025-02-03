@@ -1,46 +1,38 @@
-🥊 Fight Club Website
-Uma landing page estilizada baseada no icônico Fight Club. Este projeto utiliza HTML, CSS e JavaScript com Bootstrap para criar uma experiência visual marcante.
+# 🥊 Fight Club Fan Site  
+Um **fan site** estilizado baseado no icônico filme **Clube da Luta**. Este projeto foi desenvolvido utilizando **HTML, CSS e JavaScript**, com o poder do **Bootstrap 5** para criar uma experiência visual impactante e responsiva.  
 
-🔥 Visão Geral
-O site segue a estética sombria e impactante do Fight Club, incluindo:
+---
 
-Navbar fixa com botões de login e inscrição
-Seção Hero com um chamado intrigante para os visitantes
-Regras do Fight Club apresentadas em um layout dinâmico
-Seção de chamada para ação incentivando a participação
-Formulário de contato para interação com os usuários
-🛠️ Tecnologias Utilizadas
-HTML5
-CSS3 (com Bootstrap 5.3.0)
-JavaScript (efeitos de rolagem suave e interatividade)
-📷 Capturas de Tela
-Adicione aqui capturas de tela do projeto para ilustrar a interface.
+## 🔥 Visão Geral  
+O site busca capturar a essência sombria e filosófica do filme, incluindo:  
 
-🚀 Como Executar
-Clone este repositório:
-sh
-Copiar
-Editar
-git clone https://github.com/seu-usuario/fight-club.git
-Acesse a pasta do projeto:
-sh
-Copiar
-Editar
-cd fight-club
-Abra o arquivo index.html no navegador
-🎨 Estilo e Design
-Tipografia personalizada: Montserrat e Mulish
-Cores temáticas: Tons escuros e gradientes rosados
-Botões e seções responsivas com animações suaves
-⚡ Funcionalidades
-Efeito de rolagem suave para navegação
-Navbar que muda de opacidade ao rolar a página
-Formulário de contato interativo
-📌 Melhorias Futuras
-Animações avançadas com GSAP
-Implementação de um sistema backend para cadastro de usuários
-Adicionar modo dark/light para maior acessibilidade
-🏆 Contribuições
-Fique à vontade para abrir issues e pull requests para melhorias!
+- 🏛️ **Navbar fixa** com botões de login e inscrição  
+- 🎬 **Seção Hero** com uma chamada intrigante para os visitantes  
+- 📜 **As regras do Fight Club** apresentadas de forma dinâmica  
+- 👊 **Seção de convite** para incentivar a participação  
+- ✉️ **Formulário de contato** para interatividade  
 
-📩 Contato: vitorgomes.criativo@gmail.com
+---
+
+## 🖥️ Preview  
+<div align="center">
+  <img src="https://i.ibb.co/M3y8tkn/imagem-2025-02-03-095529284.png" alt="Preview do site" width="600">
+  <br>
+  <em>Interface do fan site Fight Club</em>
+</div>  
+
+---
+
+## 🛠️ Tecnologias  
+- ✅ **Figma**  
+- ✅ **HTML5**  
+- ✅ **CSS3**  
+- ✅ **JavaScript**  
+- ✅ **Bootstrap 5**  
+
+---
+
+## 🚀 Como Usar  
+1️⃣ Acesse o **[Fight Club]((https://iridescent-cascaron-200920.netlify.app))**  
+2️⃣ Clique em **"Generate"** para criar um novo nick  
+3️⃣ Clique no nickname para **copiar automaticamente**  
