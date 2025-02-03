@@ -33,6 +33,7 @@ O site busca capturar a essência sombria e filosófica do filme, incluindo:
 ---
 
 ## 🚀 Como Usar  
-1️⃣ Acesse o **[Fight Club]((https://iridescent-cascaron-200920.netlify.app))**  
+1️⃣ Acesse o **[Fight Club](https://iridescent-cascaron-200920.netlify.app)**  
 2️⃣ Clique em **"Generate"** para criar um novo nick  
-3️⃣ Clique no nickname para **copiar automaticamente**  
+3️⃣ Clique no nickname para **copiar automaticamente**
+
