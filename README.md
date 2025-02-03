@@ -16,7 +16,7 @@ O site busca capturar a essência sombria e filosófica do filme, incluindo:
 
 ## 🖥️ Preview  
 <div align="center">
-  <img src="[https://i.ibb.co/M3y8tkn/imagem-2025-02-03-095529284.png](https://i.ibb.co/M3y8tkn/imagem-2025-02-03-095529284.png)" alt="Preview do site" width="600">
+  <img src="https://i.ibb.co/M3y8tkn/imagem-2025-02-03-095529284.png" alt="Preview do site" width="600">
   <br>
   <em>Interface do fan site Fight Club</em>
 </div>  
